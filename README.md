@@ -24,10 +24,10 @@
   }
 
 ``` 
-  [![Instagram](https://img.shields.io/static/v1.svg?
+  [![Instagram](https://img.shields.io/static/v1.svg?)
   [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@_maahi_ve&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/__maahi__ve/#)
   [![Telegram](https://img.shields.io/badge/telegram_-llike_pink?style=flat&logo=telegram&logoColor=blue&label=message%20&labelColor=grey&color=critical&cacheSeconds=4600&link=https%3A%2F%2Ft.me%2FMaahi_ve
-)
+)]
 
 ***Glad to see you here! Show some love by [starring]( https://maahive77.github.io/jissooo/) this repo.***
 
